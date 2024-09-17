@@ -1,0 +1,117 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "TestLib",
+					"jsonFile" : "directory-TestLib-Release-c730559606eaf3557549.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "TestLib",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "TestCmakeLicence",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-TestCmakeLicence-Release-508cf38f55451763055a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TestCmakeLicence",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						2
+					],
+					"name" : "TestCmakeLicence",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "my_library",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "TestCmakeLicence::@352bc66986dc325c0295",
+					"jsonFile" : "target-TestCmakeLicence-Release-a12c56074bee21b01118.json",
+					"name" : "TestCmakeLicence",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "my_library::@0783ea3f98871941b1bb",
+					"jsonFile" : "target-my_library-Release-e29126364a3bce93dff5.json",
+					"name" : "my_library",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Projects/C++/TestCmakeLicence/out/build/x64-release",
+		"source" : "C:/Projects/C++/TestCmakeLicence"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

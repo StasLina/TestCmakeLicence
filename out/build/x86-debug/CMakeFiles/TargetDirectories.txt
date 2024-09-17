@@ -1,0 +1,17 @@
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/CMakeFiles/edit_cache.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/CMakeFiles/rebuild_cache.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/CMakeFiles/list_install_components.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/CMakeFiles/install.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/CMakeFiles/install/local.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/TestLib/CMakeFiles/my_library.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/TestLib/CMakeFiles/edit_cache.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/TestLib/CMakeFiles/rebuild_cache.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/TestLib/CMakeFiles/list_install_components.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/TestLib/CMakeFiles/install.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/TestLib/CMakeFiles/install/local.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/TestCmakeLicence/CMakeFiles/TestCmakeLicence.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/TestCmakeLicence/CMakeFiles/edit_cache.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/TestCmakeLicence/CMakeFiles/rebuild_cache.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/TestCmakeLicence/CMakeFiles/list_install_components.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/TestCmakeLicence/CMakeFiles/install.dir
+C:/Projects/C++/TestCmakeLicence/out/build/x86-debug/TestCmakeLicence/CMakeFiles/install/local.dir

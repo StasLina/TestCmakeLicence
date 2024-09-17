@@ -1,0 +1,7 @@
+# ninja log v5
+23	164	7482036354829841	TestLib/CMakeFiles/my_library.dir/my_library.cpp.obj	a68527b732d051cf
+166	387	7482036354829841	TestLib/my_library.dll	645e7b4accb8baea
+3483	3997	7482033546772051	TestCmakeLicence/TestCmakeLicence.exe	5ffdf1d540a8d6cb
+166	387	7482036354829841	TestLib/my_library.lib	645e7b4accb8baea
+20	3482	7482033541886445	TestCmakeLicence/CMakeFiles/TestCmakeLicence.dir/TestCmakeLicence.cpp.obj	847c7161002e8bfc
+11	100	0	CMakeFiles/install.util	e31831ee7f626706

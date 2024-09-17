@@ -1,0 +1,3 @@
+C:/Projects/C++/TestCmakeLicence/out/install/x86-debug/bin/TestCmakeLicence.exe
+C:/Projects/C++/TestCmakeLicence/out/install/x86-debug/bin/my_library.lib
+C:/Projects/C++/TestCmakeLicence/out/install/x86-debug/bin/my_library.dll

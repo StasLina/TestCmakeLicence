@@ -1,0 +1,27 @@
+# ninja log v5
+65	1053	7482031656299562	build.ninja	36828bc7a9fec786
+29	204	7482027041979097	TestLib/CMakeFiles/my_library.dir/my_library.cpp.obj	e07caa3284984571
+24	3288	7482028527906229	TestCmakeLicence/CMakeFiles/TestCmakeLicence.dir/TestCmakeLicence.cpp.obj	3ee757403a02fc95
+206	781	7482027047424065	TestLib/my_library.dll	4296cbda1e0e3133
+3293	3641	7482028530749494	TestCmakeLicence/TestCmakeLicence.exe	95f231a6ccef6e00
+206	781	7482027047424065	TestLib/my_library.lib	4296cbda1e0e3133
+5	154	0	CMakeFiles/install.util	6db0e713da5ad6a2
+22	3352	7482031736995881	TestCmakeLicence/CMakeFiles/TestCmakeLicence.dir/TestCmakeLicence.cpp.obj	467b938593a61582
+3358	3744	7482031739974566	TestCmakeLicence/TestCmakeLicence.exe	95f231a6ccef6e00
+28	216	0	CMakeFiles/install.util	6db0e713da5ad6a2
+6	146	0	CMakeFiles/install.util	6db0e713da5ad6a2
+6	2995	7482032155586342	TestCmakeLicence/CMakeFiles/TestCmakeLicence.dir/TestCmakeLicence.cpp.obj	467b938593a61582
+2997	3330	7482032158309644	TestCmakeLicence/TestCmakeLicence.exe	95f231a6ccef6e00
+29	170	0	CMakeFiles/install.util	6db0e713da5ad6a2
+5	133	0	CMakeFiles/install.util	6db0e713da5ad6a2
+5	3069	7482033001277533	TestCmakeLicence/CMakeFiles/TestCmakeLicence.dir/TestCmakeLicence.cpp.obj	467b938593a61582
+3071	3400	7482033003957762	TestCmakeLicence/TestCmakeLicence.exe	95f231a6ccef6e00
+34	191	0	CMakeFiles/install.util	6db0e713da5ad6a2
+5	136	0	CMakeFiles/install.util	6db0e713da5ad6a2
+6	97	0	CMakeFiles/install.util	6db0e713da5ad6a2
+5	95	0	CMakeFiles/install.util	6db0e713da5ad6a2
+6	88	0	CMakeFiles/install.util	6db0e713da5ad6a2
+6	92	0	CMakeFiles/install.util	6db0e713da5ad6a2
+6	99	0	CMakeFiles/install.util	6db0e713da5ad6a2
+6	94	0	CMakeFiles/install.util	6db0e713da5ad6a2
+5	97	0	CMakeFiles/install.util	6db0e713da5ad6a2

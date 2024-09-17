@@ -1,0 +1,117 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "TestLib",
+					"jsonFile" : "directory-TestLib-Debug-c730559606eaf3557549.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "TestLib",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "TestCmakeLicence",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-TestCmakeLicence-Debug-508cf38f55451763055a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TestCmakeLicence",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						2
+					],
+					"name" : "TestCmakeLicence",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "my_library",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "TestCmakeLicence::@352bc66986dc325c0295",
+					"jsonFile" : "target-TestCmakeLicence-Debug-9d7491efbd061e5824ce.json",
+					"name" : "TestCmakeLicence",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "my_library::@0783ea3f98871941b1bb",
+					"jsonFile" : "target-my_library-Debug-8f5f9c047c0f882f9e00.json",
+					"name" : "my_library",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Projects/C++/TestCmakeLicence/out/build/x86-debug",
+		"source" : "C:/Projects/C++/TestCmakeLicence"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
